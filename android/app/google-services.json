@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "71228039114",
+    "project_id": "minded-6bebe",
+    "storage_bucket": "minded-6bebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71228039114:android:6dac43c1ee77b71e0ff933",
+        "android_client_info": {
+          "package_name": "com.example.minded_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71228039114-fpqncno6ilqn93vknmf9cg8bhb46mrsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUGwFiFTorf7KKpuvRaSN38A_5t2ScmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71228039114-fpqncno6ilqn93vknmf9cg8bhb46mrsi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "71228039114-lihlvgr8hf0muhv5rc24q67pu3iguj1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindedHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
